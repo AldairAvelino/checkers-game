@@ -1,2 +1,2 @@
-# checkers-game
+# Checkers Game 🕹🎮
 Checkers Games
